@@ -35,11 +35,21 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-Iniunctions geven by the Quenes Maiestie anno Domini MD.LIX., the fyrst yeare of the raigne of our S
+Iniunctions GEVEN BY THE Quenes Maiestie. Anno Domini MD.LIX. The fyrst yeare of the raigne of our S
 #####Body#####
 
+1. ¶Iniūctions geuen by the Quenes maiestie, aswell to the Clergye, as to the laitie of this Realme.
+
+    _ ¶An admonition to simple men, deceyued by malicious.
+
+    _ For the Tables in the church.
+
+    _ ¶The forme of biddinge the prayers to be vsed generally in this vniforme sorte.
+
+    _ ¶And thys done shewe the holly dayes and fasting dayes.
+
 #####Back#####
-Iniunctions geven by the Quenes Maiestie anno Domini MD.LIX., the fyrst yeare of the raigne of our S
+¶Imprinted at London in Poules Church yarde by Richard lugge and Iohn Cawood prynters to the Quenes 
 **Types of content**
 
   * Oh, Mr. Jourdain, there is **prose** in there!
