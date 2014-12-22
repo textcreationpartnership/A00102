@@ -35,7 +35,7 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-Iniunctions GEVEN BY THE Quenes Maiestie. Anno Domini MD.LIX. The fyrst yeare of the raigne of our S
+
 #####Body#####
 
 1. ¶Iniūctions geuen by the Quenes maiestie, aswell to the Clergye, as to the laitie of this Realme.
